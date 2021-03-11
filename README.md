@@ -1,3 +1,10 @@
+
+### I'm Twist
+
+- 💻︎ 前端打字员，前端劝退师
+- 💛发呆，看书，喝水
+- 📧 个人邮箱[qza6268963@gmail.com](mailto:qza6268963@gmail.com)
+
 ### 🛠 技术栈 | Tech Stack
 
 - 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-EFEFEF?style=flat&logo=HTML5)
