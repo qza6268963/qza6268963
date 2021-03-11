@@ -1,10 +1,10 @@
 
 ### 👦I'm Twist
 
-· 💻︎ 前端打字员，前端劝退师
-· 💛发呆，看书，喝水
-· 📧 个人邮箱 [qza6268963@gmail.com](mailto:qza6268963@gmail.com).
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qza6268963&theme=react&show_icons=true)](https://github.com/qza6268963)
+- 💻︎ 前端打字员，前端劝退师
+- 💛发呆，看书，喝水
+- 📧 个人邮箱 [qza6268963@gmail.com](mailto:qza6268963@gmail.com)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qza6268963&theme=react&show_icons=true)](https://github.com/qza6268963)
 
 ### 🛠 技术栈 | Tech Stack
 
